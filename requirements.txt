@@ -1,0 +1,8 @@
+mysql-connector-python==8.0.22
+mysql-connector==2.2.9
+protobuf==4.24.3
+Pygments==2.16.1
+python-dotenv==1.0.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+rich==13.5.2
